@@ -28,7 +28,7 @@ Before running the project, ensure you have the following installed:
 
    ```shell
    git clone https://github.com/samriddha-basu-cloud/Authentication_using_Go_JWT_MongoDB_Gin_Gonic.git/
-   cd yourproject
+   cd Authentication_using_Go_JWT_MongoDB_Gin_Gonic
    ```
 
 2. Install project dependencies:
